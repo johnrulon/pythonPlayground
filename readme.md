@@ -1,4 +1,4 @@
-# Steps to get started
+# PythonToS3Bucket - Getting Started
 - Create a new Python Virtual Enviroment
 - Install AWS SDK (boto): https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html
     - `pip install boto3`
